@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>library</OutputType>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageId>cdio.net</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Mark Edwards</Authors>
+    <Company>KCF Technologies, Inc.</Company>
+  </PropertyGroup>
+
+</Project>
