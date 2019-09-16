@@ -8,6 +8,11 @@
     <Version>0.1.0</Version>
     <Authors>Mark Edwards</Authors>
     <Company>KCF Technologies, Inc.</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>.NET Core SDK compatible with the Contec discrete I/O USB module</Description>
+    <Copyright>2019</Copyright>
+    <RepositoryUrl>https://github.com/sonofaforester/cdio.net</RepositoryUrl>
+
   </PropertyGroup>
 
 </Project>
